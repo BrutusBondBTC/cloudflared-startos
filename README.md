@@ -48,7 +48,7 @@ make install
 
 **Tip:** You can also install the cloudflared.s9pk by sideloading it under the **StartOS > System > Sideload a Service** section.
 ## Installing Via Sideloading
-Read this [guide](/Start9CloudGuide.md) to learn how to install cloudflare by sideloading.
+Read this [guide](/Start9CloudflareGuide.md) to learn how to install cloudflare by sideloading.
 
 ## Verify Install
 
